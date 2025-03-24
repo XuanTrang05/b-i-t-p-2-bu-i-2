@@ -111,6 +111,58 @@ Chú ý:
 ![Ảnh chụp màn hình (14)](https://github.com/user-attachments/assets/7e2e130f-2896-434a-a672-135cd9b52657)
 ### TẠO BẢNG NULL THÀNH CÔNG
 ![image](https://github.com/user-attachments/assets/d8963b35-02dc-4ab4-be6b-56c9e388cf1f)
+## BoMon(#MaBM,tenBM,@maKhoa)
+### TẠO BẢNG BỘ MÔN THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/367f2c58-8ef8-471f-a041-3a9d13e57128)
+### CODE CHẠY RA THÀNH CÔNG
+![Screenshot 2025-03-24 165654](https://github.com/user-attachments/assets/c4dfe974-cc49-4e47-8b4f-b9b4da009bef)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/3cdd30f1-257a-4d98-97b5-9ca36db069de)
+## Khoa(#maKhoa,tenKhoa)
+### TẠO BẢNG KHOA THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/6dbb8eb0-e3ab-4064-92cf-6b4e049635da)
+### CODE CHẠY RA THÀNH CÔNG
+![Screenshot 2025-03-24 164707](https://github.com/user-attachments/assets/fdd5c9f9-291b-44a4-83f7-f6cf30ee4e3d)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/ebc226dc-0f17-42da-bba2-1b543035f5c5)
+## MonHoc(#mamon,Tenmon,STC)
+### TẠO BẢNG MÔN HỌC THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/b58c43ec-2f98-44db-a63a-f81d585a8976)
+### CODE CHẠY RA THÀNH CÔNG
+![Screenshot 2025-03-24 164526](https://github.com/user-attachments/assets/f8fb6d80-bb03-482f-8efc-acff06107dd2)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/aa0b35b0-7bca-4960-9a4b-dfe6a663d437)
+## LopHP(#maLopHP,TenLopHP,HK,@maMon,@maGV)
+### TẠO BẢNG LỚP HỌC PHẦN THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/cac9bbee-cefe-40d0-b1eb-51c6edae3ea3)
+### CODE CHẠY RA THÀNH CÔNG
+![Ảnh chụp màn hình (19)](https://github.com/user-attachments/assets/f0319beb-8c45-44da-9c17-888a664958d1)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/6165b1f0-27de-428d-9b64-787d2da3051e)
+## DKMH(#@maLopHP,#@maSV,DiemTP,DiemThi,PhanTramThi)
+### TẠO BẢNG DKMH THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/8807ee85-d24f-4cb7-b70e-77405047c18c)
+### CODE CHẠY RA THÀNH CÔNG
+![Ảnh chụp màn hình (13)](https://github.com/user-attachments/assets/fdcbd20b-21af-46a6-90ba-e007762c1649)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/097f729b-b125-475d-84bf-93410c85624f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
