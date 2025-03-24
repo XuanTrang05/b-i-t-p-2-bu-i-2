@@ -45,4 +45,38 @@ Chú ý:
 3. Bài làm phải có dấu ấn cá nhân (hãy sáng tạo và biết cách bảo vệ mình nếu bạn là bản chính)
 4. Kết quả AI phải phù hợp với yêu cầu, nếu quá sai lệch <=> sv ko đọc => Cấm thi
 5. Nên nhớ: cấm thi là ko có vùng cấm và thầy chưa bao giờ nói đùa về việc cấm thi.
-##
+## ẢNH MÔ TẢ VIỆC TẠO DATABASE
+![anh1](https://github.com/user-attachments/assets/f31e1b8f-136d-48c3-8a25-8f47260359e7)
+## MÔ TẢ VIỆC TẠO BẢNG
+![anh2](https://github.com/user-attachments/assets/39c45eb1-9230-4194-9be5-d460f03e0543)
+## CÁCH TẠO KHÓA CHÍNH
+![anh3](https://github.com/user-attachments/assets/95e2fe0a-951f-4c21-8a9d-431e1610e420)
+## CÁCH TẠO KHÓA NGOẠI **
+![khoangoai](https://github.com/user-attachments/assets/9e037de0-9f2f-4c1f-8381-80da1f3d54a4)
+![anh4](https://github.com/user-attachments/assets/4b0e7a20-4b17-45f9-a178-cf8cbe312b75)
+## CÁCH ĐỂ MỞ CODE CỦA BẢNG
+![anh5](https://github.com/user-attachments/assets/dd4ba2f2-901f-486a-84d7-4e8679401795)
+## CODE CHẠY THÀNH CÔNG
+![anh6](https://github.com/user-attachments/assets/dbfcaa72-b23d-47fd-b87d-190f42a6f8c0)
+## CÁCH TẠO BẢNG CHECK
+![anh7](https://github.com/user-attachments/assets/5a8c749c-bab7-4b01-a910-3278e299fcaf)
+![anh8](https://github.com/user-attachments/assets/dea813e6-f665-4e08-82ac-c6d6b4d48c66)
+## CODE SAU KHI CHẠY THÀNH CÔNG
+![hinh9](https://github.com/user-attachments/assets/0d6b0205-62f3-421c-ba1d-805b4af98f5c)
+## KẾT QUẢ BẢNG CHECK
+![image](https://github.com/user-attachments/assets/76db3b8b-65fb-4b22-a715-888ce219c09c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
