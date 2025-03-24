@@ -71,6 +71,63 @@ Chú ý:
 ##
 ##
 ## SinhVien(#masv,hoten,NgaySinh)
+### TẠO BẢNG SINH VIÊN THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/42b12ec3-67b6-4e1b-92ef-5445b34c2728)
+### CODE CHẠY RA THÀNH CÔNG
+![anh6](https://github.com/user-attachments/assets/6fec7fa8-8435-4165-b046-b647b5e18b21
+### CHECK CỦA BẢNG SINH VIÊN
+![image](https://github.com/user-attachments/assets/adca5264-43c1-4007-8ad4-ad03be4f621d)
+### TẠO BẢNG NULL THÀNH CÔNG
+![Ảnh chụp màn hình (20)](https://github.com/user-attachments/assets/bbd60bb5-f9cf-4b3c-8e62-68f5a99c83c1)
+## Lop(#maLop,tenLop)
+### TẠO BẢNG LỚP THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/f2a2fa2b-d68b-47c4-8812-04fd2f6c4014)
+### CODE CHẠY RA THÀNH CÔNG
+![Screenshot 2025-03-24 164802](https://github.com/user-attachments/assets/a58213b0-ca87-49c3-aba0-bdc1a72f9292)
+### CHECK CỦA BẢNG LỚP
+![image](https://github.com/user-attachments/assets/69e42c6d-da80-4ae0-82b5-d835cef456e5)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/800ee598-d649-49da-8ee1-910a7b66e33f)
+## GVCN(#@maLop,#@magv,#HK)
+### TẠO BẢNG GVCN THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/4b4f910e-4e10-4f3b-b294-e19e338ecea8)
+### TẠO KHÓA NGOẠI Ở BẢNG GVCN
+![image](https://github.com/user-attachments/assets/f041e01e-993f-4548-b539-8549d81f0496)
+### CODE CHẠY RA THÀNH CÔNG
+![Ảnh chụp màn hình (15)](https://github.com/user-attachments/assets/b93afd7b-2849-4a22-8b67-ad3c07e8955c)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/263b51ff-ecd1-4c75-bef0-18afc14cd29c)
+## LopSV(#@maLop,#@maSV,ChucVu)
+### TẠO BẢNG LỚP SINH VIÊN THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/5d9603f3-53f5-47b7-b068-9484ab829cdb)
+### CODE CHẠY RA THÀNH CÔNG
+![hinh9](https://github.com/user-attachments/assets/5b85b476-3d76-4d8d-8939-809b5b1c79af)
+### TẠO BẢNG NULL THÀNH CÔNG
+![Ảnh chụp màn hình (23)](https://github.com/user-attachments/assets/cb8dec7f-34d4-48b6-8ae3-c70aa88554b3)
+## GiaoVien(#magv,hoten,NgaySinh,@maBM)
+### TẠO BẢNG GIÁO VIÊN THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/1e93436f-1dc5-4228-8774-27c8febc5744)
+### CODE CHẠY RA THÀNH CÔNG
+![Ảnh chụp màn hình (14)](https://github.com/user-attachments/assets/7e2e130f-2896-434a-a672-135cd9b52657)
+### TẠO BẢNG NULL THÀNH CÔNG
+![image](https://github.com/user-attachments/assets/d8963b35-02dc-4ab4-be6b-56c9e388cf1f)
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
