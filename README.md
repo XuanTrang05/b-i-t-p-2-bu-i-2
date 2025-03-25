@@ -62,7 +62,7 @@ Chú ý:
 ![anh7](https://github.com/user-attachments/assets/5a8c749c-bab7-4b01-a910-3278e299fcaf)
 ![anh8](https://github.com/user-attachments/assets/dea813e6-f665-4e08-82ac-c6d6b4d48c66)
 ## CODE SAU KHI CHẠY THÀNH CÔNG
-![hinh9](https://github.com/user-attachments/assets/0d6b0205-62f3-421c-ba1d-805b4af98f5c)
+![hinh9](https://github.com/user-attachments/assets/216e46bb-5c88-417d-9db7-e5c7df208d7d)
 ## HIỆN RA BẢNG CHECK
 ![Screenshot 2025-03-25 004851](https://github.com/user-attachments/assets/e84eebb9-09f7-45fb-8252-75ce63e9c5cc)
 ## KẾT QUẢ BẢNG CHECK
