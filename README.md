@@ -74,7 +74,7 @@ Chú ý:
 ### TẠO BẢNG SINH VIÊN THÀNH CÔNG
 ![image](https://github.com/user-attachments/assets/42b12ec3-67b6-4e1b-92ef-5445b34c2728)
 ### CODE CHẠY RA THÀNH CÔNG
-![anh6](https://github.com/user-attachments/assets/6fec7fa8-8435-4165-b046-b647b5e18b21
+![hinh9](https://github.com/user-attachments/assets/c1b3f378-0e6f-46e4-a351-2e995e0d7207)
 ### CHECK CỦA BẢNG SINH VIÊN
 ![image](https://github.com/user-attachments/assets/adca5264-43c1-4007-8ad4-ad03be4f621d)
 ### TẠO BẢNG NULL THÀNH CÔNG
